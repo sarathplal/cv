@@ -1,2 +1,2 @@
-# cv
+# personalwebsite
 Initial cv project
